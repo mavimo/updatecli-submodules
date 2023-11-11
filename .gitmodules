@@ -1,0 +1,6 @@
+[submodule "nocode"]
+	path = nocode
+	url = https://github.com/updatecli-test/nocode.git
+[submodule "cargo-lab"]
+	path = cargo-lab
+	url = git@github.com:updatecli-test/cargo-lab.git
